@@ -57,7 +57,7 @@ return {
           staticcheck = true,
           gofumpt = true,
           semanticTokens = true,
-          usePlaceholders = true,
+          usePlaceholders = false,
           completeUnimported = true,
         },
       },
