@@ -7,6 +7,7 @@ set shiftwidth=2
 set tabstop=2
 set expandtab
 set wildmenu
+set number
 set relativenumber
 set scrolloff=5
 set autoindent
